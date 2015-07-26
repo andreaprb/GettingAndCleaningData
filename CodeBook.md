@@ -64,7 +64,7 @@ Creates a tidy data set:  A new data set called tidydata.txt is created with the
 The tidydata set contains 180 objeservations and 68 variables.
 
 
-[1] subject  - Identify the volunteer "subject" who performed the experiment. It is a int with the range from 1 to 30. 
+[1] subject  - Identify the volunteer "subject" who performed the experiment. It is an int with the range from 1 to 30. 
 
 [2] activity - WALKING, WALKING_UPSTAIRS,  WALKING_DOWNSTAIRS,  SITTING,  STANDING , LAYING. It is a factor with 6 levels.
 
