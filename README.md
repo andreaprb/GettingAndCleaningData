@@ -27,12 +27,10 @@ The function will:
 
 Instructions:
 1.	Open R or RStudio.
-
 2.	Type  getwd() , it will say what is the working directory.
-
-3.	Set the working directory in R. You can use the setwd("your working directory") command or Session | Set Working Directory | Choose Directory
-4.	clone the repository
-5.	Add the run_analysis.R  file script in the working directory 
+3.	Set the working directory in R. You can use the setwd("your working directory") command or Session | Set Working Directory | Choose Directory.
+4.	Clone the repository
+5.	Add the run_analysis.R  file script in the working directory in RStudio
 6.	File | Open File | run_analysis.R
 7.	Type source ("run_analysis.R")
 8.	Type packagesRequired() *only if you don't have the dplyr and plyr packages installed and loaded
@@ -40,4 +38,3 @@ Instructions:
 10.	Type createTidyDataSet()
 
 Results: A file called tidydata.txt will be created into the "data" folder.
-
