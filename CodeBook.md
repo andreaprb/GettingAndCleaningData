@@ -1,6 +1,3 @@
----
-title: "Code book"
----
 Code Book
 
 This is the code book that will describe all the variables, values, units and all transformations and choices were performed to create a tidy data set.
