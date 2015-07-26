@@ -26,8 +26,10 @@ The function will:
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Instructions:
-1.	Open R or RStudio . 
+1.	Open R or RStudio.
+
 2.	Type  getwd() , it will say what is the working directory.
+
 3.	Set the working directory in R. You can use the setwd("your working directory") command or Session | Set Working Directory | Choose Directory
 4.	clone the repository
 5.	Add the run_analysis.R  file script in the working directory 
@@ -39,7 +41,3 @@ Instructions:
 
 Results: A file called tidydata.txt will be created into the "data" folder.
 
-More information:
-
-The dataset being used is: 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
