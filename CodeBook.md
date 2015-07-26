@@ -1,6 +1,6 @@
 ## Code Book
 
-This is the code book that will describe all the variables, values, units and all transformations and choices were performed to create a tidy data set.
+This document will describe all the variables, values, units and all transformations and choices that were performed to create a tidy data set.
 
 ## Project Description
 Create one R script called run_analysis.R that will create a tidy data set with the average of each variable for each activity and each subject.
